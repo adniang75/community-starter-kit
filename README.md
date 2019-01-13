@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome to the Probot App that'll allow you to integrate automatic guide to new timers in your project.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Welcome new timers
+- Guide them through the process of contributing in the project
+- Get them well integrated in the team
 
 ## Getting started
 
