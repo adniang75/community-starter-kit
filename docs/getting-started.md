@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- Welcome guys to the essantials of Mona's bot!!!
+- Mona's Bot says Hiiii friends
